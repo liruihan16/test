@@ -1,3 +1,2 @@
 # test
-just for test\n
-hello world
+just for test
